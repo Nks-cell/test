@@ -1,0 +1,8 @@
+{
+  "name": "MediCare Pro - Doctor & Clinic Website",
+  "description": "Premium, production-ready doctor and medical clinic demonstration platform featuring real-time appointment booking, specialty showcase, patient inquiry management, and secure administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
